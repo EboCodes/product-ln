@@ -8,7 +8,7 @@ import { faFacebook, faInstagram, faTiktok } from "@fortawesome/free-brands-svg-
 export default function App() {
   return (
     <div className="bg-[#0a1128] text-white font-[Poppins]">
-      <Toaster position="top-center" />
+      
 
       {/* Hero Section */}
       <section className="relative min-h-screen flex items-center justify-center px-6 lg:px-20 py-16 overflow-hidden">
